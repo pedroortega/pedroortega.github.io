@@ -6,7 +6,7 @@
     "email": "pedro.ortega@gmail.com",
     "phone": "",
     "url": "https://www.adapativeagents.org",
-    "summary": "Pedro A. Ortega is a British-Chilean researcher in AGI and cybernetics. Previously he was VP of Research at Kosen Labs, and lead of the Safety Analysis Team at DeepMind. His research interests are the formal principles of intelligent agents: specifically, basic questions in AGI and AGI safety research, including bounded-rational & risk-sensitive planning and causal generalization. His approach lies at the intersection between machine learning, computational neuroscience, theoretical economics, and physics. He holds a PhD in Machine Learning from the University of Cambridge (Prof. Zoubin Ghahramani), and has been a postdoc in Cambridge (Prof. Simon Godsill), Max Planck Institute for Biological Cybernetics/Intelligent Systems (Prof. Daniel A. Braun), The Hebrew University in Jerusalem (Prof. Naftali Tishby), and University of Pennsylvania (Prof. Daniel D. Lee and Prof. Alan A. Stocker).",
+    "summary": "Pedro A. Ortega is a researcher in AGI and cybernetics. Previously he was VP of Research at Kosen Labs, and lead of the Safety Analysis Team at DeepMind. His research interests are the formal principles of intelligent agents: specifically, basic questions in AGI and AGI safety research, including bounded-rational & risk-sensitive planning and causal generalization. His approach lies at the intersection between machine learning, computational neuroscience, theoretical economics, and physics. He holds a PhD in Machine Learning from the University of Cambridge (Prof. Zoubin Ghahramani), and has been a postdoc in Cambridge (Prof. Simon Godsill), Max Planck Institute for Biological Cybernetics/Intelligent Systems (Prof. Daniel A. Braun), The Hebrew University in Jerusalem (Prof. Naftali Tishby), and University of Pennsylvania (Prof. Daniel D. Lee and Prof. Alan A. Stocker).",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,6 +23,15 @@
     ]
   },
   "work": [
+    {
+      "name": "Stealth",
+      "position": "Founder",
+      "url": "",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "AI",
+      "highlights": []
+    },
     {
       "name": "Kosen Labs",
       "position": "VP of Research",
