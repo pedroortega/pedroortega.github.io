@@ -36,6 +36,3 @@ To get a sense of my work, please refer to:
   * or my [publications](/publications).
 
 I was part of the former **Tuebingen group on Sensorimotor Learning and Decision Making**, where some of the now widespread ideas on Thompson sampling, causality, and thermodynamic methods for reinforcement learning have originated. 
-
-### Misc
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
