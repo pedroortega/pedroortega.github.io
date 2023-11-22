@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
+  more_info: 
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -17,13 +16,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-# Pedro A. Ortega
-
+## Pedro A. Ortega
 AGI and Cybernetics Researcher
 
 ## About
 
-Former **VP of Research** at **[Kosen Labs](https://www.kosen.ai)**. Previously I was the lead of the **Safety Analysis Team at DeepMind**. My research focuses on **artificial general intelligence** and the **formal principles of intelligence**, covering aspects such as learning, planning and decision making in both machines and biological organisms. My approach lies at the intersection between machine learning, computational neuroscience, theoretical economics, and physics.
+I was VP of research at **Kosen Labs** and prior to that, lead of the **Safety Analysis Team at DeepMind**. My research focuses on **artificial general intelligence** and the **formal principles of intelligence**, covering aspects such as learning, planning and decision making in both machines and biological organisms. My approach lies at the intersection between machine learning, computational neuroscience, theoretical economics, and physics.
 
 ## Research Interests
 
@@ -35,7 +33,7 @@ To get a sense of my work, please refer to:
   * my {{:papers:thesis.pdf|PhD thesis}} on bounded rationality and Bayesian control,
   * my paper on {{:papers:minimumrelentropylearningacting.pdf|Thompson sampling}} as Bayesian causal inference,
   * my paper on [bounded rationality](http://rspa.royalsocietypublishing.org/content/469/2153/20120683) through thermodynamic principles,
-  * or my [publications].
+  * or my [publications](/publications).
 
 I was part of the former **Tuebingen group on Sensorimotor Learning and Decision Making**, where some of the now widespread ideas on Thompson sampling, causality, and thermodynamic methods for reinforcement learning have originated. 
 
