@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pedroortega.github.io/sitemap.xml
+Sitemap: https://www.adaptiveagents.org/sitemap.xml
